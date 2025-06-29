@@ -20,3 +20,7 @@
   <a href="https://www.linkedin.com/in/hamza-ali-khan-5781b0200/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
   <a href="https://flowcv.com/resume/6v7ig8lbh9e8"><img src="https://img.icons8.com/?size=50&id=115635&format=png" alt="Resume"/></a>
 </p>
+
+### 💼 Check My Academic Portfolio: https://erenyea.github.io/
+
+### 💼 Check My Developer Portfolio: https://www.hamzaaliportfolio.com/
