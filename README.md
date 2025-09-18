@@ -2,7 +2,7 @@
 <p align="center"> A Software Engineer specializing in Machine Learning and Computer Vision.
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ErenYea" alt="hamza-ali-khan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzaalikhan822" alt="hamza-ali-khan" /> </p>
 
 - 🔭 I’m currently working with **Python**, **Machine Learning**, **AI**, **Computer Vision**, and **Object Detection**. My recent work includes designing Django backend solutions, developing multi-action agents with Langchain, and implementing YOLO models for object detection and tracking.Add commentMore actions
 - 🌱 I’m expanding my expertise in **Natural Language Processing**, **Large Language Models**, and **Data Science**. I’m involved in independent research on LLMs and enhancing AI-driven solutions.
