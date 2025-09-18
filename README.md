@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzaalikhan822" alt="hamza-ali-khan" /> </p>
 
-- 🔭 I’m currently working with **Python**, **Machine Learning**, **AI**, **Computer Vision**, and **Object Detection**. My recent work includes designing Django backend solutions, developing multi-action agents with Langchain, and implementing YOLO models for object detection and tracking.Add commentMore actions
+- 🔭 I’m currently working with **Python**, **Machine Learning**, **AI**, **Computer Vision**, and **Object Detection**. My recent work includes designing Django backend solutions, developing multi-action agents with Langchain, and implementing YOLO models for object detection and tracking.
 - 🌱 I’m expanding my expertise in **Natural Language Processing**, **Large Language Models**, and **Data Science**. I’m involved in independent research on LLMs and enhancing AI-driven solutions.
 - 👯 I’m looking to collaborate on **Computer Vision Research**, **AI-driven projects**, **Advanced Machine Learning applications**, and **Real-time AI Systems**.
 - 🚀 I have experience in **developing backend infrastructures**, **creating APIs**, and **integrating AI models** with various technologies including Flask, Quart, and Django.
